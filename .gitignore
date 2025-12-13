@@ -1,0 +1,6 @@
+.env.example
+AUTOMATION_GUIDE.md
+daily_leetcode_ai.py
+daily_leetcode.ps1
+DAILY_PRACTICE_PROMPT.md
+daily/2025-12-13-practice.md
